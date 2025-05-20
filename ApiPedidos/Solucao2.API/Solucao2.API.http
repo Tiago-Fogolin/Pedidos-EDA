@@ -1,0 +1,6 @@
+@Solucao2.API_HostAddress = http://localhost:5098
+
+GET {{Solucao2.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

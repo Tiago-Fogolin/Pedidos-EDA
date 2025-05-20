@@ -1,0 +1,17 @@
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.csproj.AssemblyReference.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.AssemblyInfoInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.AssemblyInfo.cs
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\bin\Debug\net8.0\PublisherPedidos.exe
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\bin\Debug\net8.0\PublisherPedidos.deps.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\bin\Debug\net8.0\PublisherPedidos.runtimeconfig.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\bin\Debug\net8.0\PublisherPedidos.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\bin\Debug\net8.0\PublisherPedidos.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\Publishe.BFE18456.Up2Date
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\refint\PublisherPedidos.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.genruntimeconfig.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\ref\PublisherPedidos.dll

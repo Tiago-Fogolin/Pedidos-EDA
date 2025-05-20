@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC4EEE4-C5B3-478C-A118-521DB7500550}|Solucao2.Infra\\ApiPedidos.Infra.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\apipedidos\\solucao2.infra\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC4EEE4-C5B3-478C-A118-521DB7500550}|Solucao2.Infra\\ApiPedidos.Infra.csproj|solutionrelative:solucao2.infra\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC6795-6D20-4F4F-8A71-14BFBFE1AEC7}|Solucao2.Domain\\ApiPedidos.Domain.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\apipedidos\\solucao2.domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC6795-6D20-4F4F-8A71-14BFBFE1AEC7}|Solucao2.Domain\\ApiPedidos.Domain.csproj|solutionrelative:solucao2.domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDC7D84-EA58-4A1E-9CAC-5E78CA4E72B8}|Solucao2.API\\ApiPedidos.API.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\apipedidos\\solucao2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDC7D84-EA58-4A1E-9CAC-5E78CA4E72B8}|Solucao2.API\\ApiPedidos.API.csproj|solutionrelative:solucao2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\Solucao2.Infra\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Solucao2.Infra\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\Solucao2.Infra\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Solucao2.Infra\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:43:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\Solucao2.API\\Program.cs",
+              "RelativeDocumentMoniker": "Solucao2.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\Solucao2.API\\Program.cs",
+              "RelativeToolTip": "Solucao2.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:43:26.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\Solucao2.Domain\\Pedido.cs",
+              "RelativeDocumentMoniker": "Solucao2.Domain\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\ApiPedidos\\Solucao2.Domain\\Pedido.cs",
+              "RelativeToolTip": "Solucao2.Domain\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:41:28.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

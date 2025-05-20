@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiPedidos.Application/1.0.0": {
+        "dependencies": {
+          "ApiPedidos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ApiPedidos.Application.dll": {}
+        }
+      },
+      "ApiPedidos.Domain/1.0.0": {
+        "runtime": {
+          "ApiPedidos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiPedidos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiPedidos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

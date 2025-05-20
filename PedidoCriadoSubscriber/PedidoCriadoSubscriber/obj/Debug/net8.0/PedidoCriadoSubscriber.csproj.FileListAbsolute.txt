@@ -1,0 +1,17 @@
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\bin\Debug\net8.0\PedidoCriadoSubscriber.exe
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\bin\Debug\net8.0\PedidoCriadoSubscriber.deps.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\bin\Debug\net8.0\PedidoCriadoSubscriber.runtimeconfig.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\bin\Debug\net8.0\PedidoCriadoSubscriber.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\bin\Debug\net8.0\PedidoCriadoSubscriber.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.csproj.AssemblyReference.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.AssemblyInfoInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.AssemblyInfo.cs
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCr.A9F53E40.Up2Date
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\refint\PedidoCriadoSubscriber.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\PedidoCriadoSubscriber.genruntimeconfig.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PedidoCriadoSubscriber\PedidoCriadoSubscriber\obj\Debug\net8.0\ref\PedidoCriadoSubscriber.dll

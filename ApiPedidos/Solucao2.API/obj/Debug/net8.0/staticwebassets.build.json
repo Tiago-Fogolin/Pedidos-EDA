@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TOYpfeYvA2F+PJKM92qlpKkCE41koMPXZjl98NKKTE4=",
+  "Source": "ApiPedidos.API",
+  "BasePath": "_content/ApiPedidos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

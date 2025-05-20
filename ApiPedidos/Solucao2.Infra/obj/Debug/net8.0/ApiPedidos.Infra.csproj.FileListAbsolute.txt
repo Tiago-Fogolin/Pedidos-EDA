@@ -1,0 +1,17 @@
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\bin\Debug\net8.0\ApiPedidos.Infra.deps.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\bin\Debug\net8.0\ApiPedidos.Infra.runtimeconfig.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\bin\Debug\net8.0\ApiPedidos.Infra.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\bin\Debug\net8.0\ApiPedidos.Infra.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\bin\Debug\net8.0\ApiPedidos.Domain.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\bin\Debug\net8.0\ApiPedidos.Domain.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.csproj.AssemblyReference.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.AssemblyInfoInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.AssemblyInfo.cs
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedid.0111BA2A.Up2Date
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\refint\ApiPedidos.Infra.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.genruntimeconfig.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ref\ApiPedidos.Infra.dll

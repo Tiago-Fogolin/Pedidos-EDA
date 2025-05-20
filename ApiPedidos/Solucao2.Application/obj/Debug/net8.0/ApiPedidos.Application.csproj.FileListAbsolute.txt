@@ -1,0 +1,15 @@
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\bin\Debug\net8.0\ApiPedidos.Application.deps.json
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\bin\Debug\net8.0\ApiPedidos.Application.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\bin\Debug\net8.0\ApiPedidos.Application.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\bin\Debug\net8.0\ApiPedidos.Domain.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\bin\Debug\net8.0\ApiPedidos.Domain.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.csproj.AssemblyReference.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.AssemblyInfoInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.AssemblyInfo.cs
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedid.58F48C8E.Up2Date
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\refint\ApiPedidos.Application.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ApiPedidos.Application.pdb
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Application\obj\Debug\net8.0\ref\ApiPedidos.Application.dll

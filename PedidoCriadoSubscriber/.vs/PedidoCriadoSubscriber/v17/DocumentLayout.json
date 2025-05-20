@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PedidoCriadoSubscriber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D409A3-F68F-47DA-81CF-C5FD18C2CF02}|PedidoCriadoSubscriber\\PedidoCriadoSubscriber.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\pedidocriadosubscriber\\pedidocriadosubscriber\\pedidocriadosubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D409A3-F68F-47DA-81CF-C5FD18C2CF02}|PedidoCriadoSubscriber\\PedidoCriadoSubscriber.csproj|solutionrelative:pedidocriadosubscriber\\pedidocriadosubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D409A3-F68F-47DA-81CF-C5FD18C2CF02}|PedidoCriadoSubscriber\\PedidoCriadoSubscriber.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\pedidocriadosubscriber\\pedidocriadosubscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D409A3-F68F-47DA-81CF-C5FD18C2CF02}|PedidoCriadoSubscriber\\PedidoCriadoSubscriber.csproj|solutionrelative:pedidocriadosubscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PedidoCriadoSubscriber\\PedidoCriadoSubscriber\\Program.cs",
+              "RelativeDocumentMoniker": "PedidoCriadoSubscriber\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PedidoCriadoSubscriber\\PedidoCriadoSubscriber\\Program.cs",
+              "RelativeToolTip": "PedidoCriadoSubscriber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:10:16.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoCriadoSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PedidoCriadoSubscriber\\PedidoCriadoSubscriber\\PedidoCriadoSubscriber.cs",
+              "RelativeDocumentMoniker": "PedidoCriadoSubscriber\\PedidoCriadoSubscriber.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PedidoCriadoSubscriber\\PedidoCriadoSubscriber\\PedidoCriadoSubscriber.cs",
+              "RelativeToolTip": "PedidoCriadoSubscriber\\PedidoCriadoSubscriber.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:08:35.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
