@@ -21,6 +21,29 @@ namespace Solucao2.Infra.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ApiPedidos.Domain.PedidoEvents", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("OcorreuEm")
+                        .HasColumnType("datetime2");
+
+                    b.Property<Guid>("PedidoId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PedidoId");
+
+                    b.ToTable("EventosPedidos");
+                });
+
             modelBuilder.Entity("Solucao2.Domain.Pedido", b =>
                 {
                     b.Property<Guid>("Id")
@@ -58,6 +81,17 @@ namespace Solucao2.Infra.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Pedidos", (string)null);
+                });
+
+            modelBuilder.Entity("ApiPedidos.Domain.PedidoEvents", b =>
+                {
+                    b.HasOne("Solucao2.Domain.Pedido", "Pedido")
+                        .WithMany()
+                        .HasForeignKey("PedidoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Pedido");
                 });
 #pragma warning restore 612, 618
         }

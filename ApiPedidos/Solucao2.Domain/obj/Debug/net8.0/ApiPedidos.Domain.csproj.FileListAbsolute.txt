@@ -9,3 +9,4 @@ C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Domain\obj\Debug\n
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Domain\obj\Debug\net8.0\refint\ApiPedidos.Domain.dll
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Domain\obj\Debug\net8.0\ApiPedidos.Domain.pdb
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Domain\obj\Debug\net8.0\ref\ApiPedidos.Domain.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Domain\obj\Debug\net8.0\ApiPedidos.Domain.sourcelink.json

@@ -1,4 +1,5 @@
-﻿using Solucao2.Domain;
+﻿using ApiPedidos.Domain;
+using Solucao2.Domain;
 using Solucao2.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -11,15 +12,31 @@ namespace Solucao2.Application.Services
     public class PedidoService
     {
         private readonly IPedidoRepository _pedidoRepository;
+        private readonly IPedidoEventsRepository _pedidoEventRepository;
 
-        public PedidoService (IPedidoRepository pedidoRepository)
+        public PedidoService (IPedidoRepository pedidoRepository, IPedidoEventsRepository pedidoEventRepository)
         {
             _pedidoRepository = pedidoRepository;
+            _pedidoEventRepository = pedidoEventRepository;
         }
 
         public async Task CriarPedido(Pedido pedido)
         {
             await _pedidoRepository.AddPedidoAsync(pedido);
+
+            var evento = new PedidoEvents
+            {
+                PedidoId = pedido.Id,
+                Status = pedido.Status,
+                OcorreuEm = DateTime.UtcNow
+            };
+
+            await _pedidoEventRepository.AddEventoAsync(evento);
+        }
+
+        public async Task<List<PedidoEvents>> ObterHistoricoDeEventos(Guid pedidoId)
+        {
+            return await _pedidoEventRepository.GetEventosByPedidoId(pedidoId);
         }
 
         public async Task<Pedido> PegarPedidoPorId(Guid id)

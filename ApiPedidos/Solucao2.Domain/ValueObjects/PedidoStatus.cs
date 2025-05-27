@@ -13,8 +13,9 @@ namespace Solucao2.Domain.ValueObjects
         public static readonly PedidoStatus Enviado = new("Enviado");
         public static readonly PedidoStatus Cancelado = new("Cancelado");
 
-        public string Valor { get; }
+        public string Valor { get; private set; }
 
+        private PedidoStatus() { }
         public PedidoStatus(string valor)
         {
             Valor = valor;

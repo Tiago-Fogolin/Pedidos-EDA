@@ -94,3 +94,4 @@ C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.API\obj\Debug\net8
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.API\obj\Debug\net8.0\ApiPedidos.API.pdb
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.API\obj\Debug\net8.0\ApiPedidos.API.genruntimeconfig.cache
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.API\obj\Debug\net8.0\ref\ApiPedidos.API.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.API\obj\Debug\net8.0\ApiPedidos.API.sourcelink.json

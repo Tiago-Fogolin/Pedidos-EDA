@@ -15,3 +15,4 @@ C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\ne
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.pdb
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.genruntimeconfig.cache
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ref\ApiPedidos.Infra.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\ApiPedidos\Solucao2.Infra\obj\Debug\net8.0\ApiPedidos.Infra.sourcelink.json

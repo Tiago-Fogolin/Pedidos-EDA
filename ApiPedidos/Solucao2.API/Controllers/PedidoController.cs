@@ -62,5 +62,16 @@ namespace Solucao2.API.Controllers
             Pedido pedido = await _pedidoService.EnviarPedido(id);
             return Ok(pedido);
         }
+
+        [HttpGet("{id}/historico")]
+        public async Task<IActionResult> GetHistorico(Guid id)
+        {
+            var eventos = await _pedidoService.ObterHistoricoDeEventos(id);
+
+            if (eventos == null || eventos.Count == 0)
+                return NotFound("Nenhum evento encontrado para este pedido.");
+
+            return Ok(eventos);
+        }
     }
 }

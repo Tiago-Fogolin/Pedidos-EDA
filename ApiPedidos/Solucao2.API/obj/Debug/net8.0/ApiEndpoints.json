@@ -88,5 +88,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Solucao2.API.Controllers.PedidoController",
+    "Method": "GetHistorico",
+    "RelativePath": "api/Pedido/{id}/historico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

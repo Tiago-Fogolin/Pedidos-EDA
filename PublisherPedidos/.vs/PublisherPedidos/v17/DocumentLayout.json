@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +11,32 @@
       "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\prioridadeentregaproximahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\prioridadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\prioridadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\prioridadeflagclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\prioridadeflagclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\prioridadecanalvendahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\prioridadecanalvendahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\helpers\\routingkeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\helpers\\routingkeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\prioridadeflagclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\prioridadeflagclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\iprioridadehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\iprioridadehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\messages\\pedidomessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\messages\\pedidomessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\helpers\\routingkeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\helpers\\routingkeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\prioridadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\prioridadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|c:\\users\\tiago fogolin\\desktop\\p2_navarro\\publisherpedidos\\publisherpedidos\\prioridades\\iprioridadehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8CD99A-DB9E-4968-805B-B33F730FE60A}|PublisherPedidos\\PublisherPedidos.csproj|solutionrelative:publisherpedidos\\prioridades\\iprioridadehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,20 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PrioridadeCanalVendaHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
-              "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
-              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
-              "RelativeToolTip": "PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:48:10.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PrioridadeFlagClienteHandler.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeFlagClienteHandler.cs",
               "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\PrioridadeFlagClienteHandler.cs",
@@ -76,33 +63,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PrioridadeEntregaProximaHandler.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeEntregaProximaHandler.cs",
               "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\PrioridadeEntregaProximaHandler.cs",
               "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeEntregaProximaHandler.cs",
               "RelativeToolTip": "PublisherPedidos\\Prioridades\\PrioridadeEntregaProximaHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T18:48:25.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Publisher.cs",
               "RelativeDocumentMoniker": "PublisherPedidos\\Publisher.cs",
               "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Publisher.cs",
               "RelativeToolTip": "PublisherPedidos\\Publisher.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T18:15:12.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Program.cs",
+              "RelativeDocumentMoniker": "PublisherPedidos\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Program.cs",
+              "RelativeToolTip": "PublisherPedidos\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:31:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrioridadeService.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeService.cs",
+              "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\PrioridadeService.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeService.cs",
+              "RelativeToolTip": "PublisherPedidos\\Prioridades\\PrioridadeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:48:52.976Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PedidoMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Messages\\PedidoMessage.cs",
+              "RelativeDocumentMoniker": "PublisherPedidos\\Messages\\PedidoMessage.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Messages\\PedidoMessage.cs",
+              "RelativeToolTip": "PublisherPedidos\\Messages\\PedidoMessage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:39:33.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrioridadeCanalVendaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
+              "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
+              "RelativeToolTip": "PublisherPedidos\\Prioridades\\PrioridadeCanalVendaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:48:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RoutingKeyHelper.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Helpers\\RoutingKeyHelper.cs",
               "RelativeDocumentMoniker": "PublisherPedidos\\Helpers\\RoutingKeyHelper.cs",
@@ -110,38 +148,11 @@
               "RelativeToolTip": "PublisherPedidos\\Helpers\\RoutingKeyHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:54:35.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T18:54:35.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Program.cs",
-              "RelativeDocumentMoniker": "PublisherPedidos\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Program.cs",
-              "RelativeToolTip": "PublisherPedidos\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:31:37.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrioridadeService.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeService.cs",
-              "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\PrioridadeService.cs",
-              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\PrioridadeService.cs",
-              "RelativeToolTip": "PublisherPedidos\\Prioridades\\PrioridadeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:48:52.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IPrioridadeHandler.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Prioridades\\IPrioridadeHandler.cs",
               "RelativeDocumentMoniker": "PublisherPedidos\\Prioridades\\IPrioridadeHandler.cs",
@@ -149,20 +160,7 @@
               "RelativeToolTip": "PublisherPedidos\\Prioridades\\IPrioridadeHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:47:41.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PedidoMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Messages\\PedidoMessage.cs",
-              "RelativeDocumentMoniker": "PublisherPedidos\\Messages\\PedidoMessage.cs",
-              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\p2_navarro\\PublisherPedidos\\PublisherPedidos\\Messages\\PedidoMessage.cs",
-              "RelativeToolTip": "PublisherPedidos\\Messages\\PedidoMessage.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:39:33.69Z"
+              "WhenOpened": "2025-05-19T18:47:41.764Z"
             }
           ]
         }

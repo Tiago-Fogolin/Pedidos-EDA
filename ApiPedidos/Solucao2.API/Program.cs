@@ -15,6 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<PedidoService>();
 builder.Services.AddScoped<ApplicationDbContext>();
 builder.Services.AddScoped<IPedidoRepository, PedidoRepository>();
+builder.Services.AddScoped<IPedidoEventsRepository, PedidoEventsRepository>();
 
 var app = builder.Build();
 

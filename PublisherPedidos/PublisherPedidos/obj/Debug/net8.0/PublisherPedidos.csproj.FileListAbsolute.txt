@@ -15,3 +15,4 @@ C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.pdb
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.genruntimeconfig.cache
 C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\ref\PublisherPedidos.dll
+C:\Users\Tiago Fogolin\Desktop\p2_navarro\PublisherPedidos\PublisherPedidos\obj\Debug\net8.0\PublisherPedidos.sourcelink.json
