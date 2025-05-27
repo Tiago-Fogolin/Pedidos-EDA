@@ -1,6 +1,7 @@
 ﻿using ApiPedidos.Domain;
 using Solucao2.Domain;
 using Solucao2.Domain.Interfaces;
+using Solucao2.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -51,16 +52,45 @@ namespace Solucao2.Application.Services
 
         public async Task<Pedido> FaturarPedido(Guid id)
         {
+
+            var evento = new PedidoEvents
+            {
+                PedidoId = id,
+                Status = new PedidoStatus("Faturado"),
+                OcorreuEm = DateTime.UtcNow
+            };
+
+            await _pedidoEventRepository.AddEventoAsync(evento);
+
             return await _pedidoRepository.InvoicePedidoAsync(id);
+
         }
 
         public async Task<Pedido> CancelarPedido(Guid id)
         {
+            var evento = new PedidoEvents
+            {
+                PedidoId = id,
+                Status = new PedidoStatus("Cancelado"),
+                OcorreuEm = DateTime.UtcNow
+            };
+
+            await _pedidoEventRepository.AddEventoAsync(evento);
+
             return await _pedidoRepository.CancelPedidoAsync(id);
         }
 
         public async Task<Pedido> EnviarPedido(Guid id)
         {
+            var evento = new PedidoEvents
+            {
+                PedidoId = id,
+                Status = new PedidoStatus("Enviado"),
+                OcorreuEm = DateTime.UtcNow
+            };
+
+            await _pedidoEventRepository.AddEventoAsync(evento);
+
             return await _pedidoRepository.ShipPedidoAsync(id);
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiPedidos.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bb5b0f2901d93305d331ac44b37469ce28aeca5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d721440af328ee91fb1db1c9ddb6c9dc58c63176")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiPedidos.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiPedidos.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
